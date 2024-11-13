@@ -27,8 +27,8 @@
 //! [`collect_fold`]: crate::processes::collect_fold
 //! [`CombinedProcessDecider`]: crate::processes::CombinedProcessDecider
 //! [`InMemoryRunner`]: crate::utilities::InMemoryRunner
-//! [examples]: https://github.com/AgentX1994/deciders.rs/examples
-//! [integration tests]: https://github.com/AgentX1994/deciders.rs/tests/integrations.rs
+//! [examples]: https://github.com/AgentX1994/deciders.rs/blob/main/examples
+//! [integration tests]: https://github.com/AgentX1994/deciders.rs/blob/main/tests/integrations.rs
 #![doc = include_str!("../README.md")]
 pub mod deciders;
 pub mod processes;
