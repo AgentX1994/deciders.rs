@@ -1,0 +1,14 @@
+[package]
+name = "deciders-rs"
+authors = ["John Asper <agentx1994@gmail.com>"]
+version = "0.1.0"
+edition = "2021"
+description = "An implementation of Jérémie Chassaing's Aggregate Composition in Rust"
+homepage = "https://github.com/AgentX1994/deciders.rs"
+repository = "https://github.com/AgentX1994/deciders.rs"
+readme = "README.md"
+keywords = ["domain driven design", "ddd", "event sourcing", "pattern", "design pattern"]
+categories = ["rust-patterns"]
+license = "TBD"
+
+[dependencies]
